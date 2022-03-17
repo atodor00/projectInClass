@@ -6,6 +6,6 @@ namespace AT1
 {
     class newklasa
     {
-        
+        public int ajme=2;
     }
 }
