@@ -6,6 +6,9 @@ namespace AT1
 {
     class newklasa
     {
-        
+        public void metoda()
+        {
+            Console.WriteLine("Hello Worldd");
+        }
     }
 }
