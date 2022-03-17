@@ -12,7 +12,7 @@ namespace AT1
             Console.WriteLine("Hello Worldd");
         }
 
-        public int ajme=2;
+        public int varijabla=2;
 
     }
 }
